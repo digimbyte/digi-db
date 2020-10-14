@@ -1,21 +1,18 @@
 <img src="https://github.com/digimbyte/node-db/blob/master/images/title.jpg?raw=true" style="width: 25%; height: 25%; float: left;">
 
-## The JavaScript Document Database
+## The Node Document Database
 
 **Embedded persistent or in memory database for Node.js, nw.js, Electron and browsers, 100% JavaScript, no binary dependency**. API is a subset of MongoDB's and it's <a href="#speed">plenty fast</a>.
 
-**IMPORTANT NOTE**: Please don't submit issues for questions regarding your code. Only actual bugs or feature requests will be answered, all others will be closed without comment. Also, please follow the <a href="#bug-reporting-guidelines">bug reporting guidelines</a> and check the <a href="https://github.com/louischatriot/nedb/wiki/Change-log" target="_blank">change log</a> before submitting an already fixed bug :)
+Built ontop of NeDB but without the Mongo API Subset - looking for more object/queue based document control with nested object merging
+We are dropping browser support, this is designed for lite weight backend systems like node.js servers without the heavy need for a dedicated database.
+Such as Discord Bot database, Express/koa internal database (not primary website database), etc
 
-## Support NeDB development
+## Support DIGO-DB development
 
-<img src="http://i.imgur.com/mpwi4lf.jpg">
+Our goals are currently not live and is mostly NeDB based until I am able to impliment all the features I want
 
-No time to <a href="#pull-requests">help out</a>? You can support NeDB development by sending money or bitcoins!
-
-Money: [![Donate to author](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=louis%2echatriot%40gmail%2ecom&lc=US&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHostedGuest)
-
-Bitcoin address: 1dDZLnWpBbodPiN8sizzYrgaz5iahFyb1
-
+## BELOW IS NeDB
 
 ## Installation, tests
 Module name on npm and bower is `nedb`.
