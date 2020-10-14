@@ -1,12 +1,12 @@
 {
-  "name": "nedb",
-  "version": "1.8.0",
+  "name": "digi-db",
+  "version": "0.1.0",
   "author": {
-    "name": "Louis Chatriot",
-    "email": "louis.chatriot@gmail.com"
+    "name": "digimbyte",
+    "email": "digimbyte"
   },
   "contributors": [
-    "Louis Chatriot"
+    "digimbyte"
   ],
   "description": "File-based embedded data store for node.js",
   "keywords": [
@@ -14,10 +14,10 @@
     "datastore",
     "embedded"
   ],
-  "homepage": "https://github.com/louischatriot/nedb",
+  "homepage": "https://github.com/digimbyte/node-db",
   "repository": {
     "type": "git",
-    "url": "git@github.com:louischatriot/nedb.git"
+    "url": "git@github.com:digimbyte/node-db.git"
   },
   "dependencies": {
     "async": "0.2.10",
