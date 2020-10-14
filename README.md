@@ -1,4 +1,4 @@
-<img src="https://github.com/digimbyte/node-db/blob/master/images/title.jpg?raw=true" style="width: 25%; height: 25%; float: left;">
+<img src="https://github.com/digimbyte/digi-db/blob/master/images/title.jpg?raw=true" style="width: 25%; height: 25%; float: left;">
 
 ## The Node Document Database
 
