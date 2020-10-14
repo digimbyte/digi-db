@@ -8,7 +8,7 @@ Built ontop of NeDB but without the Mongo API Subset - looking for more object/q
 We are dropping browser support, this is designed for lite weight backend systems like node.js servers without the heavy need for a dedicated database.
 Such as Discord Bot database, Express/koa internal database (not primary website database), etc
 
-## Support DIGO-DB development
+## Support DIGI-DB development
 
 Our goals are currently not live and is mostly NeDB based until I am able to impliment all the features I want
 
