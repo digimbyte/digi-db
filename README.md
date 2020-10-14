@@ -1,4 +1,4 @@
-<img src="http://github.com/digimbyte/node-db/images/title.jpg" style="width: 25%; height: 25%; float: left;">
+<img src="https://github.com/digimbyte/node-db/blob/master/images/title.jpg?raw=true" style="width: 25%; height: 25%; float: left;">
 
 ## The JavaScript Document Database
 
